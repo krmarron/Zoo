@@ -43,8 +43,8 @@ public class Cat {
 		this.age = age;
 	}
 
-	public String makeNoise() {
-		return "Meow";
+	public String makeSound() {
+		return "purr";
 	}
 
 }
